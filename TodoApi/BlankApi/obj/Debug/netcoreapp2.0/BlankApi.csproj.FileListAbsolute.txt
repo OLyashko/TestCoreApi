@@ -1,0 +1,11 @@
+C:\Users\oliashko\source\repos\TodoApi\BlankApi\bin\Debug\netcoreapp2.0\BlankApi.deps.json
+C:\Users\oliashko\source\repos\TodoApi\BlankApi\bin\Debug\netcoreapp2.0\BlankApi.runtimeconfig.json
+C:\Users\oliashko\source\repos\TodoApi\BlankApi\bin\Debug\netcoreapp2.0\BlankApi.runtimeconfig.dev.json
+C:\Users\oliashko\source\repos\TodoApi\BlankApi\bin\Debug\netcoreapp2.0\BlankApi.dll
+C:\Users\oliashko\source\repos\TodoApi\BlankApi\bin\Debug\netcoreapp2.0\BlankApi.pdb
+C:\Users\oliashko\source\repos\TodoApi\BlankApi\obj\Debug\netcoreapp2.0\BlankApi.csprojAssemblyReference.cache
+C:\Users\oliashko\source\repos\TodoApi\BlankApi\obj\Debug\netcoreapp2.0\BlankApi.csproj.CoreCompileInputs.cache
+C:\Users\oliashko\source\repos\TodoApi\BlankApi\obj\Debug\netcoreapp2.0\BlankApi.AssemblyInfoInputs.cache
+C:\Users\oliashko\source\repos\TodoApi\BlankApi\obj\Debug\netcoreapp2.0\BlankApi.AssemblyInfo.cs
+C:\Users\oliashko\source\repos\TodoApi\BlankApi\obj\Debug\netcoreapp2.0\BlankApi.dll
+C:\Users\oliashko\source\repos\TodoApi\BlankApi\obj\Debug\netcoreapp2.0\BlankApi.pdb
